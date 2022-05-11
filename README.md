@@ -10,8 +10,7 @@ Para hacerlo por medio de comandos y desde https debes adicionar la ruta [https:
 
 ## Live Demo📦
 
-Puedes ver el proyecto en funcionamiento gracias a GitHub Pages aquí
-
+Puedes ver el proyecto en funcionamiento gracias a GitHub Pages [aquí](https://ceomarin.github.io/ricomida/)
 ## Recursos 🛠️
 
 *Menciona las herramientas que utilizaste para crear tu proyecto*
