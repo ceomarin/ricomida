@@ -23,10 +23,6 @@ Puedes ver el proyecto en funcionamiento gracias a GitHub Pages [aquí](https://
 - [jQuery](https://jquery.com/) - Librería JavaScript version min descargada en el proyecto 3.6.0
 - [Adobe XD](https://xd.adobe.com/spec/d60d3e21-4554-4e17-4fb1-e61d39f3d2b3-a03c/grid) - mockup y diseño del proyecto.
 
-## Control de Versiones📌
-
-Usé [GitHub](https://github.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
 ## Autores ✒️
 
 - **César Marín** - Autoría - ceomarin
