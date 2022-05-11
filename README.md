@@ -1,6 +1,6 @@
 # Proyecto Ricomida
 
-El desafío consiste en la construcción de una página web estática relacionada con la preparación de comidas y recetas, se solicita que sea responsiva y se aporta el mockup con los estilos requeridos.
+El desafío consiste en la construcción de una página web estática relacionada con la preparación de comidas y recetas, se solicita que sea responsiva y para ello se aporta el mockup con los estilos requeridos.
 Finalmente, la página debe tener 3 interacciones mediante eventos tipo “click” y “dblclick”, métodos como “toggle” y “on”, selectores de id, etiquetas, clases y en lo posible contar con ventanas emergentes.
 
 ## Comenzando 🚀
