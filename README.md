@@ -1,19 +1,17 @@
 # Proyecto Ricomida
 
-El desafío consiste en la construcción de una página relacionada con la preparación de comida y recetas, se solicita que sea responsivo y es guiado por una maqueta donde se presentan los estilos requeridos.
+El desafío consiste en la construcción de una página web estática relacionada con la preparación de comidas y recetas, se solicita que sea responsiva y se aporta el mockup con los estilos requeridos.
 Finalmente, la página debe tener 3 interacciones mediante eventos tipo “click” y “dblclick”, métodos como “toggle” y “on”, selectores de id, etiquetas, clases y en lo posible contar con ventanas emergentes.
 
 ## Comenzando 🚀
 
-*Puedes conseguir copia del proyecto para uso en local desde terminal git clonando por HTTPS, SSH o descargando el Zip del proyecto.
-Para hacerlo por medio de comandos y desde https debes adicionar la ruta [https://github.com/ceomarin/ricomida.git](https://github.com/ceomarin/ricomida.git) al comando respectivo*
+*Puedes conseguir copia del proyecto para uso en local desde terminal git clonando por HTTPS, SSH o descargando el Zip del proyecto.*
 
 ## Live Demo📦
 
 Puedes ver el proyecto en funcionamiento gracias a GitHub Pages [aquí](https://ceomarin.github.io/ricomida/)
-## Recursos 🛠️
 
-*Menciona las herramientas que utilizaste para crear tu proyecto*
+## Recursos y Herramientas 🛠️
 
 - [vscode](https://code.visualstudio.com/) - Editor de código para el desarrollo.
 - [Notion](https://www.notion.so/product) - Usado para documentar proceso y escribir con Markdown
